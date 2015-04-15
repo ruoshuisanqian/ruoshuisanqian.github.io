@@ -1,0 +1,12 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://ruoshuisanqian.github.io
+highlighter: pygments
+name: 弱水三千
+description: 弱水三千 呆萌android猿.
+author: wanglixin
+email: wang_lx@yeah.net
+safe: true
+hub: ruoshuisanqian
+paginate: 100
+about: "弱菜一枚。"
