@@ -1,10 +1,10 @@
 markdown: rdiscount
 permalink: /:title/
-url: http://ruoshuisanqian.github.io
+url: http://www.duguxiaoxin.com
 highlighter: pygments
 name: 独孤小新
 description: 独孤小新 呆萌android猿.
-author: wanglixin
+author: duguxiaoxin
 email: wang_lx@yeah.net
 safe: true
 duoshuo: ruoshuisanqian
