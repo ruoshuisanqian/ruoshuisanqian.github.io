@@ -6,7 +6,7 @@ comments: no
 
 ###个人说明
 
-* 弱水三千 呆萌android开发一枚
+* 独孤小新 呆萌android开发一枚
 * 目前在乐视网担任android开发工程师
 
 ###欢迎交流
