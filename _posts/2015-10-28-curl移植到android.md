@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  curl移植到android
-categories: android
-tags: android
+categories: ndk
+tags: android ndk
 ---
 
 ###curl移植到android(MAC)
